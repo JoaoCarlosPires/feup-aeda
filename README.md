@@ -1,6 +1,6 @@
 # feup-aeda
  
-This programs were created during the **1st semester** of the **2nd year** of **Integrated Master in Informatics and Computer Engineering**, in **Algorithms and Data Structures** curricular unity (FEUP).
+This programs were created during the **1st semester** of the **2nd year** of **Integrated Master in Informatics and Computing Engineering**, in **Algorithms and Data Structures** curricular unity (FEUP).
 
 [AEDA FEUP-Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=368697 "Curricular Unity Homepage")
 
