@@ -1,0 +1,7 @@
+Portugal
+Portugalplayers.txt
+Portugalstaff.txt
+Portugalcompetition.txt
+Portugalcoaches.txt
+Portugalproviders.txt
+Portugalequipment.txt
